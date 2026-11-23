@@ -1,5 +1,19 @@
 {
- "assets": {},
+ "assets": {
+  "Ground100": "5d667cdfe6ad99429a57b49b9b78fbcbd7c0b676",
+  "Ground101": "72356281d39a72ee15149dc218bafd1a941ac137",
+  "Ground102": "c5b4ef8a6d8f1e3da8b31a8005d3e05219c48434",
+  "Ground103": "18ebdaea98a60bbfddb7039747f10265a3343123",
+  "Ground104": "9b9c45fd73acb644df5e30fac5f7672761288b68",
+  "Ground105": "8c35869003f90edfb85148969f9bccf252e9f830",
+  "Ground106": "3c0e676e6fe3f5a8698f46d2747ce0762c4d5e24",
+  "Ground107": "91051af3d661da20cdba5ac942edd2fd9a6ecc5e",
+  "Ground108": "73271dbc26d48651366bae34e4384da223363374",
+  "Ground109": "a1603105fb46597e1dafe138873b55ec98ca30e7",
+  "Ground110": "bba172ff43f1773e4e22d9fd324e4537228ba19a",
+  "Ground111": "85cd27c7232f73ea3539aa08d4187a7554e26476",
+  "Ground112": "3bb7c45c8e0076d925bf266662160941608a00bd"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
